@@ -1,0 +1,37 @@
+.card-container{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    flex-wrap: wrap;
+}
+
+.card{
+    background-color: #DCDCDC;
+    border: 1px solid #B03060;
+    border-radius: 8px;
+    margin-right: 14px;
+    padding: 20px;
+    width: 100%;
+    max-width: 410px;
+    height: 100px;
+}
+
+.card h2{
+    color: #B03060;
+    font-size: 20px;
+    padding: 5px;
+}
+
+.card p{
+    font-size: 16px;
+    padding: 5px;
+}
+
+.card a{
+    color: #B03060;
+    padding: 10px;
+
+}
+.card img{
+    width: 50px;
+}

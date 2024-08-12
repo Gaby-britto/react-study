@@ -1,0 +1,38 @@
+.banner-container {
+  width: 1818px;
+  height: 500px;
+  padding: 20px;
+  background-color: #b03060;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: auto;
+  border-radius: 10px;
+}
+.banner-container img {
+  height: 500px;
+  width: 500px;
+  border-radius: 100%;
+}
+
+.banner-text {
+  height: 500px;
+  width: 700px;
+}
+hr {
+  background-color: white;
+  height: 2px;
+  width: 700px;
+}
+
+.banner-text h1 {
+  color: white;
+  text-align: center;
+}
+
+.banner-text h3 {
+  color: white;
+  padding: 50px;
+  font-size: 20px;
+}
