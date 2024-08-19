@@ -1,0 +1,24 @@
+.banner{
+    border: 1px solid #B03060;
+    margin: auto;
+    max-width: 1000px;
+    height: 110px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    background-color: #FFC0CB;
+    /* flexbox*/
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.banner h1{
+    color: #B03060;
+    font-size: 28px;
+}
+.banner h2{
+    color: white;
+    font-size: 20px;
+}

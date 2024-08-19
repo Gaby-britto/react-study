@@ -18,11 +18,7 @@ const Card = () => {
       description: "Este é o terceiro card.",
       link: "#",
     },
-    {
-      titulos: "Card 4",
-      description: "Este é o quarto card.",
-      link: "#",
-    },
+    
   ];
   console.log(cardData);
 

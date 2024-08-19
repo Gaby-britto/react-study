@@ -1,6 +1,6 @@
 const Header = () => {
     const headerStyle = {
-        backgroundColor: 'white',
+        backgroundColor: '#B03060',
         padding: '20px',
         textAlign: 'center',
         borderRadius: '5px'
@@ -9,7 +9,7 @@ const Header = () => {
     const titleStyle = {
         margin: '0',
         fontSize: '24px',
-        color: '#B03060'
+        color: 'white'
     }
 
     return(
